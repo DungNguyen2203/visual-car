@@ -1,0 +1,7 @@
+{
+  "name": "Copy of AutoVision AI",
+  "description": "Ứng dụng nhận diện và phân tích thông tin xe cộ sử dụng công nghệ Gemini AI.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
